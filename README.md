@@ -2,5 +2,7 @@
 
 1.Basic Commands
 >git add
+
 >git commit
+
 >git status
