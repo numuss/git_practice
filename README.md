@@ -1,8 +1,8 @@
 ### Hello Git and GitHub
 
-1.Basic Commands
+1.Boiko Borisov
 >git add
 >git commit
 >git status
 
-2.Push to GitHub
+2.Asencho Taxito
